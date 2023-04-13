@@ -1,7 +1,7 @@
 LINK TO THE PAGE:
 https://sparkling-froyo-894a76.netlify.app/
 
-This repos is all about my website clone task.
+This repo is all about my website clone task.
 I chose to clone instagram website.
 Here is my instagram clone using html and css.
 working on this, made me understand the depth of learning basic concept and few tags and attribute.
